@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Sujai E
 
-**Cybersecurity Enthusiast | Full Stack Developer | ECE tudent**
+**Cybersecurity Enthusiast | Full Stack Developer | ECE Student**
 
 I am a passionate ECE student interested in **Cybersecurity, Web Development, and Secure Software Development**.  
 I enjoy building full stack applications and learning about **network security, ethical hacking, and threat detection**.
@@ -42,5 +42,6 @@ Cybersecurity awareness project to educate users about phishing attacks.
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujai-e-602bb62b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 
