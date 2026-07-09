@@ -1,3 +1,38 @@
+╔══════════════════════════════════════════════╗
+        Hi 👋 I'm Sujai E
+ECE Student | Python Developer | AI Enthusiast
+╚══════════════════════════════════════════════╝
+
+⚡ Animated Typing Banner
+
+📈 Visitor Counter
+
+🐍 Snake Animation
+
+🏆 GitHub Trophies
+
+📊 GitHub Stats
+
+🔥 Streak Stats
+
+💻 Most Used Languages
+
+📈 Contribution Graph
+
+🛠 Tech Stack
+
+🚀 Featured Projects
+
+📜 Certificates
+
+🌐 Connect With Me
+
+🎵 Spotify
+
+📈 GitHub Metrics
+
+💡 Fun Fact
+
 ## Hi 👋 I'm Sujai E
 
 **Cybersecurity Enthusiast | Full Stack Developer | ECE Student**
