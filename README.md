@@ -1,6 +1,15 @@
 ## Hi 👋 I'm Sujai E
 
 **Cybersecurity Enthusiast | Full Stack Developer | ECE Student**
+<img align="right" width="350" src="YOUR_GIF">
+
+- 🎓 B.E Electronics and Communication Engineering
+- 🏫 Excel Engineering College
+- 🌱 Currently Learning Python, Flask, AI & Cloud
+- 🚀 Building Acting Driver Startup
+- 🤖 Final Year Project: AI-Based Online Exam Malpractice Detection
+- 📫 Email: sujaielaiyaraja@gmail.com
+- 
 
 I am a passionate ECE student interested in **Cybersecurity, Web Development, and Secure Software Development**.  
 I enjoy building full stack applications and learning about **network security, ethical hacking, and threat detection**.
@@ -41,7 +50,7 @@ Cybersecurity awareness project to educate users about phishing attacks.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujai-e-602bb62b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujai-e-602bb62b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
